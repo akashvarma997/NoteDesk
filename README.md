@@ -39,3 +39,12 @@ in the backend/db.js file for connecting to MongoDB.
 9.) <b>Express-Validators</b>: To do validations on email ID & password on the server side.
 
 10.) <b>CORS</b>: To allow the browser to make API calls.Description:-
+
+
+Demo Video:
+
+
+
+https://user-images.githubusercontent.com/92669726/216768657-44c06f71-ba3b-4774-8375-7fdf1da319ee.mp4
+
+
